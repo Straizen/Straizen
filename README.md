@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Straizen
-- 👀 I’m interested in Games and computers.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on nowhere thank_u.
-- 📫 How to reach me... please don't.
+- 👋 Hi, I’m @Aditya Beniwal
+- I'm currently studing CSE in Chandigarh University
+- I'm well versed in languages like C, C++, HTML, CSS and Python.
+- Right now I'm not looking for jobs or internships but rather skill improving jobs.
+- I am also well experienced in Blender and Unity.
 
 <!---
 Straizen/Straizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
